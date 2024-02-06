@@ -1,0 +1,2 @@
+module Integrate_eclipse {
+}
